@@ -1,0 +1,45 @@
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\refint\HRM_Design.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.pdb
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.genruntimeconfig.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\ref\HRM_Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.AssemblyReference.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfoInputs.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfo.cs
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.CoreCompileInputs.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\refint\HRM_Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.genruntimeconfig.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\ref\HRM_Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.AssemblyReference.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfoInputs.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.AssemblyInfo.cs
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\refint\HRM_Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\HRM_Design.genruntimeconfig.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_Design\obj\Debug\net7.0\ref\HRM_Design.dll

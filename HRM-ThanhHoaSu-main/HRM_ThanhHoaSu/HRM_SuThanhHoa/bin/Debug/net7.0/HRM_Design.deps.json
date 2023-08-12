@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "HRM_Design/1.0.0": {
+        "runtime": {
+          "HRM_Design.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HRM_Design/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

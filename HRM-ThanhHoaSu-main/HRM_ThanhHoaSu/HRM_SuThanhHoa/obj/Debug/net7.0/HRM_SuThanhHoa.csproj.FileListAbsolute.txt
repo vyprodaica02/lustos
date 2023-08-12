@@ -1,0 +1,258 @@
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.exe
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.deps.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.runtimeconfig.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.HRM_SuThanhHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.build.HRM_SuThanhHoa.props
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRM_SuThanhHoa.props
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRM_SuThanhHoa.props
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\scopedcss\bundle\HRM_SuThanhHoa.styles.css
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CopyComplete
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\refint\HRM_SuThanhHoa.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.genruntimeconfig.cache
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\ref\HRM_SuThanhHoa.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.deps.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.runtimeconfig.json
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.exe
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.dll
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\Admin\Desktop\HRM_ThanhHoaSu\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.deps.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.runtimeconfig.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.exe
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.exe
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.deps.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.runtimeconfig.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Humanizer.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.AssemblyReference.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfoInputs.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfo.cs
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CoreCompileInputs.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.HRM_SuThanhHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.build.HRM_SuThanhHoa.props
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRM_SuThanhHoa.props
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRM_SuThanhHoa.props
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\scopedcss\bundle\HRM_SuThanhHoa.styles.css
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CopyComplete
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\refint\HRM_SuThanhHoa.dll
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.genruntimeconfig.cache
+C:\Users\DJ XuyenChi\Documents\HRM-ThanhHoaSu\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\ref\HRM_SuThanhHoa.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\appsettings.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.deps.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.runtimeconfig.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.exe
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.deps.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.runtimeconfig.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.exe
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.exe
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.deps.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.runtimeconfig.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Design.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\bin\Debug\net7.0\HRM_Infrastructure.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.AssemblyReference.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfoInputs.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.AssemblyInfo.cs
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CoreCompileInputs.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.HRM_SuThanhHoa.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.build.HRM_SuThanhHoa.props
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.HRM_SuThanhHoa.props
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.HRM_SuThanhHoa.props
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\scopedcss\bundle\HRM_SuThanhHoa.styles.css
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.csproj.CopyComplete
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\refint\HRM_SuThanhHoa.dll
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.pdb
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\HRM_SuThanhHoa.genruntimeconfig.cache
+C:\Users\Duc\Desktop\HRM-ThanhHoaSu-main\HRM_ThanhHoaSu\HRM_SuThanhHoa\obj\Debug\net7.0\ref\HRM_SuThanhHoa.dll
