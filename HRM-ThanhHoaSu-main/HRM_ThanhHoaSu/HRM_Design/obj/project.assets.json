@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
+      "projectUniqueName": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
       "projectName": "HRM_Design",
-      "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
+      "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
       "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\obj\\",
+      "outputPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

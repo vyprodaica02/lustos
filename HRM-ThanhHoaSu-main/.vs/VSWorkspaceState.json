@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HRM_ThanhHoaSu",
+    "\\HRM_ThanhHoaSu\\HRM_Infrastructure",
+    "\\HRM_ThanhHoaSu\\HRM_Infrastructure\\DataEx"
+  ],
+  "SelectedNode": "\\HRM_ThanhHoaSu\\HRM_Infrastructure\\DataEx\\AppDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}

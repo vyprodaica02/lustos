@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S6BUdVe9Vql01yWMeBPvZFkk+N+XkYwf6uNTgnc5cgqZLs+p4UvQ3w7Fi1gs6BvLk9pxLTw+jzIVjbVOgKjFMQ==",
+  "dgSpecHash": "Aubncmg/T2t2Sa6FdaJaTNuALdIV6aiVteQmOxXkuyRrElWLZhm7zq6GAkkfuxZNh+oEqHCOetbbErYos2msTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Duc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Duc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

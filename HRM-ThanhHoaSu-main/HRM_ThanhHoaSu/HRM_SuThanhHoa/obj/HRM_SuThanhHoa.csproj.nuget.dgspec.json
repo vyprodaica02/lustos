@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj": {}
+    "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
+    "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
+        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
         "projectName": "HRM_Design",
-        "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
+        "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\obj\\",
+        "outputPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj": {
+    "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
         "projectName": "HRM_Infrastructure",
-        "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
-                "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj"
+              "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
+                "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj": {
+    "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj",
+        "projectUniqueName": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj",
         "projectName": "HRM_SuThanhHoa",
-        "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj",
+        "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\HRM_SuThanhHoa.csproj",
         "packagesPath": "C:\\Users\\Duc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\obj\\",
+        "outputPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_SuThanhHoa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,11 +177,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
-                "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj"
+              "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj": {
+                "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Design\\HRM_Design.csproj"
               },
-              "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Duc\\Desktop\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj"
+              "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Duc\\Desktop\\lotus\\HRM-ThanhHoaSu-main\\HRM_ThanhHoaSu\\HRM_Infrastructure\\HRM_Infrastructure.csproj"
               }
             }
           }
